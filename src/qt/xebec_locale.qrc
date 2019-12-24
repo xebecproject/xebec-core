@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/xebec_ar.qm</file>
+        <file alias="bg">locale/xebec_bg.qm</file>
+        <file alias="de">locale/xebec_de.qm</file>
+        <file alias="en">locale/xebec_en.qm</file>
+        <file alias="es">locale/xebec_es.qm</file>
+        <file alias="fi">locale/xebec_fi.qm</file>
+        <file alias="fr">locale/xebec_fr.qm</file>
+        <file alias="it">locale/xebec_it.qm</file>
+        <file alias="ja">locale/xebec_ja.qm</file>
+        <file alias="ko">locale/xebec_ko.qm</file>
+        <file alias="nl">locale/xebec_nl.qm</file>
+        <file alias="pl">locale/xebec_pl.qm</file>
+        <file alias="pt">locale/xebec_pt.qm</file>
+        <file alias="ru">locale/xebec_ru.qm</file>
+        <file alias="sk">locale/xebec_sk.qm</file>
+        <file alias="sv">locale/xebec_sv.qm</file>
+        <file alias="th">locale/xebec_th.qm</file>
+        <file alias="tr">locale/xebec_tr.qm</file>
+        <file alias="vi">locale/xebec_vi.qm</file>
+        <file alias="zh_CN">locale/xebec_zh_CN.qm</file>
+        <file alias="zh_TW">locale/xebec_zh_TW.qm</file>
+    </qresource>
+</RCC>

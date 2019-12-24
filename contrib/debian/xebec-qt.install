@@ -1,0 +1,6 @@
+usr/local/bin/xebec-qt usr/bin
+share/pixmaps/xebec32.xpm usr/share/pixmaps
+share/pixmaps/xebec16.xpm usr/share/pixmaps
+share/pixmaps/xebec128.png usr/share/pixmaps
+debian/xebec-qt.desktop usr/share/applications
+debian/xebec-qt.protocol usr/share/kde4/services/

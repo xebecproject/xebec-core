@@ -1,0 +1,11 @@
+[Protocol]
+exec=xebec-qt '%u'
+protocol=xebec
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

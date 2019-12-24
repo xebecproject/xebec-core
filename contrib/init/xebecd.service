@@ -1,0 +1,22 @@
+[Unit]
+Description=Xebec's distributed currency daemon
+After=network.target
+
+[Service]
+User=xebeccore
+Group=xebeccore
+
+Type=forking
+PIDFile=/var/lib/xebecd/xebecd.pid
+ExecStart=/usr/bin/xebecd -daemon -pid=/var/lib/xebecd/xebecd.pid \
+-conf=/etc/xebeccore/xebec.conf -datadir=/var/lib/xebecd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

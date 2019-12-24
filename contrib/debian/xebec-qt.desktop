@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Xebec Core
+Comment=Xebec P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Xebec peer-to-peer Netzwerk
+Comment[fr]=Xebec, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Xebec, eşten eşe kriptografik sanal para birimi
+Exec=xebec-qt %u
+Terminal=false
+Type=Application
+Icon=xebec128
+MimeType=x-scheme-handler/xebec;
+Categories=Office;Finance;
